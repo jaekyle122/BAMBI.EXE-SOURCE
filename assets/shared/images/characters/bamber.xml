@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bamber.png">
+<SubTexture name="bamber bamberdown0000" x="204" y="471" width="96" height="129" frameX="0" frameY="0" frameWidth="96" frameHeight="129" />
+<SubTexture name="bamber bamberdown0001" x="300" y="471" width="96" height="129" frameX="0" frameY="0" frameWidth="96" frameHeight="129" />
+<SubTexture name="bamber bamberidle0000" x="0" y="251" width="252" height="220" frameX="0" frameY="0" frameWidth="252" frameHeight="220" />
+<SubTexture name="bamber bamberidle0001" x="508" y="0" width="252" height="210" frameX="0" frameY="0" frameWidth="252" frameHeight="210" />
+<SubTexture name="bamber bamberidle0002" x="252" y="251" width="252" height="220" frameX="0" frameY="0" frameWidth="252" frameHeight="220" />
+<SubTexture name="bamber bamberidle0003" x="508" y="210" width="252" height="210" frameX="0" frameY="0" frameWidth="252" frameHeight="210" />
+<SubTexture name="bamber bamberleft0000" x="0" y="0" width="240" height="251" frameX="0" frameY="0" frameWidth="240" frameHeight="251" />
+<SubTexture name="bamber bamberleft0001" x="240" y="0" width="268" height="251" frameX="0" frameY="0" frameWidth="268" frameHeight="251" />
+<SubTexture name="bamber bamberright0000" x="396" y="471" width="77" height="102" frameX="0" frameY="0" frameWidth="77" frameHeight="102" />
+<SubTexture name="bamber bamberright0001" x="473" y="471" width="85" height="102" frameX="0" frameY="0" frameWidth="85" frameHeight="102" />
+<SubTexture name="bamber bamber up0000" x="0" y="471" width="102" height="155" frameX="0" frameY="0" frameWidth="102" frameHeight="155" />
+<SubTexture name="bamber bamber up0001" x="102" y="471" width="102" height="155" frameX="0" frameY="0" frameWidth="102" frameHeight="155" />
+</TextureAtlas>
